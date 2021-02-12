@@ -1,0 +1,9 @@
+body{
+    font-family: "Work sans";
+    background: rgb(66, 65, 65);
+    height: 120vh;
+}
+
+canvas{
+    box-shadow:1px 1px 38px black;
+}
